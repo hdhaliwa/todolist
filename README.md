@@ -5,8 +5,10 @@ The app will open in localhost:3000
 
 It allows you to add activities and delete activities. The reference is "Learning React 2nd Edition by Kirupa Chinnathambi" and "Thinkful" website.
 
-![Screenshot Logo](C:\Users\jagme\Desktop\REACT\reactapp.png)
-Format: ![Alt Text](url)
+Please see the screnshot named "reactapp.png" in the repository. Please let me know if you have questions through email.
+
+Thanks
+Hardeep
 
 
 
